@@ -1,9 +1,12 @@
 import { AxiosProxyConfig } from 'axios';
 
 import {
+  CelebrationsRepository,
+  CommentRepository,
   ConversationRepository,
   InvitationRepository,
   MessageRepository,
+  NotificationRepository,
   ProfileRepository,
   SearchRepository,
 } from '../repositories';
@@ -32,4 +35,10 @@ export class Client {
   conversation = new ConversationRepository({ client: this });
 
   message = new MessageRepository({ client: this });
+
+  celebration = new CelebrationsRepository({ client: this });
+
+  comment = new CommentRepository({ client: this });
+
+  notification = new NotificationRepository({ client: this });
 }

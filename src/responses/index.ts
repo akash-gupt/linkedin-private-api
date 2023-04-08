@@ -7,3 +7,5 @@ export * from './own-profile.response.get';
 export * from './profile.response.get';
 export * from './received-invitations.response.get';
 export * from './sent-invitations.response.get';
+export * from './celebration-response.get';
+export * from './accepted-invitations.response.get';

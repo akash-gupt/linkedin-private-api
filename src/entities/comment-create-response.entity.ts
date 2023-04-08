@@ -1,0 +1,2 @@
+export interface CommentCreateResponse {
+}
