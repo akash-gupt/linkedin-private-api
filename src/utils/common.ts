@@ -1,4 +1,5 @@
 import { HeaderImage } from '../entities';
+import { encode } from './encoder';
 
 export const transformHeaderImageToProfileId = (headerImage: HeaderImage): string => {
   const imageAttribute = headerImage.attributes.find(
@@ -10,3 +11,17 @@ export const transformHeaderImageToProfileId = (headerImage: HeaderImage): strin
 };
 
 export const transformToProfileIdentifier = (actionTarget: string): string => decodeURI(actionTarget.replace('/in/', ''));
+
+export const getIdFromUrn = (urn: string): string => {
+  /**
+   * Return the ID of a given LinkedIn URN.
+   *
+   * Example: urn:li:fs_miniProfile:<id>
+   */
+  return urn.split(':')[3];
+};
+
+export const zipJson = (body: Record<string, any>) => {
+  const encoder = new TextEncoder();
+  return encode(encoder.encode(JSON.stringify(body))) as any;
+};

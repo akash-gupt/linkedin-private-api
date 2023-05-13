@@ -1,4 +1,4 @@
-import { CelebrationRequest } from 'src/requests/celebrations.request';
+import { CelebrationRequest } from '../requests/celebrations.request';
 import { AuthRequest } from '../requests/auth.request';
 import { ConversationRequest } from '../requests/conversation.request';
 import { InvitationRequest } from '../requests/invitation.request';

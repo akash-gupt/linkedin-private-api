@@ -12,10 +12,83 @@ export class MessageRequest {
     this.request = request;
   }
 
-  sendMessage({ profileId, conversationId, text }: { profileId?: ProfileId; conversationId?: ConversationId; text: string }): Promise<SendMessageResponse> {
+  // sendMessage({ profileId, conversationId, text }: { profileId?: ProfileId; conversationId?: ConversationId; text: string }): Promise<SendMessageResponse> {
+  //   const queryParams = {
+  //     action: 'create',
+  //   };
+  //   const directMessagePayload = {
+  //     keyVersion: 'LEGACY_INBOX',
+  //     conversationCreate: {
+  //       eventCreate: {
+  //         value: {
+  //           'com.linkedin.voyager.messaging.create.MessageCreate': {
+  //             attributedBody: {
+  //               text,
+  //               attributes: [],
+  //             },
+  //             attachments: [],
+  //           },
+  //         },
+  //       },
+  //       subtype: 'MEMBER_TO_MEMBER',
+  //       recipients: [profileId],
+  //     },
+  //   };
+
+  //   const conversationPayload = {
+  //     eventCreate: {
+  //       originToken: '54b3a724-59c5-4cf2-adbd-660483010a87',
+  //       value: {
+  //         'com.linkedin.voyager.messaging.create.MessageCreate': {
+  //           attributedBody: { text, attributes: [] },
+  //           attachments: [],
+  //         },
+  //       },
+  //     },
+  //     dedupeByClientGeneratedToken: false,
+  //   };
+
+  //   const conversationUrl = `messaging/conversations/${conversationId}/events`
+  //   const directMessageUrl = 'messaging/conversations'
+
+  //   const payload = conversationId ? conversationPayload : directMessagePayload
+  //   const url = conversationId ? conversationUrl : directMessageUrl
+
+  //   return this.request.post<SendMessageResponse>(url, payload, { params: queryParams });
+  // }
+
+  // getMessages({
+  //   conversationId,
+  //   createdBefore,
+  // }: {
+  //   conversationId: ConversationId;
+  //   createdBefore?: Date;
+  // }): Promise<GetMessagesResponse> {
+  //   const queryParams = {
+  //     keyVersion: 'LEGACY_INBOX',
+  //     ...(createdBefore && { createdBefore: createdBefore.getTime() }),
+  //   };
+
+  //   return this.request.get<GetMessagesResponse>(`messaging/conversations/${conversationId}/events`, {
+  //     params: queryParams,
+  //   });
+  // }
+
+  sendMessage({
+    profileId,
+    conversationId,
+    text,
+    attachments = [],
+  }: {
+    profileId?: ProfileId;
+    conversationId?: ConversationId;
+    text: string;
+    attachments?: any[];
+  }): Promise<SendMessageResponse> {
     const queryParams = {
       action: 'create',
     };
+
     const directMessagePayload = {
       keyVersion: 'LEGACY_INBOX',
       conversationCreate: {
@@ -26,7 +99,7 @@ export class MessageRequest {
                 text,
                 attributes: [],
               },
-              attachments: [],
+              attachments,
             },
           },
         },
@@ -41,18 +114,18 @@ export class MessageRequest {
         value: {
           'com.linkedin.voyager.messaging.create.MessageCreate': {
             attributedBody: { text, attributes: [] },
-            attachments: [],
+            attachments,
           },
         },
       },
       dedupeByClientGeneratedToken: false,
     };
 
-    const conversationUrl = `messaging/conversations/${conversationId}/events`
-    const directMessageUrl = 'messaging/conversations'
+    const conversationUrl = `messaging/conversations/${conversationId}/events`;
+    const directMessageUrl = 'messaging/conversations';
 
-    const payload = conversationId ? conversationPayload : directMessagePayload
-    const url = conversationId ? conversationUrl : directMessageUrl 
+    const payload = conversationId ? conversationPayload : directMessagePayload;
+    const url = conversationId ? conversationUrl : directMessageUrl;
 
     return this.request.post<SendMessageResponse>(url, payload, { params: queryParams });
   }
@@ -65,12 +138,61 @@ export class MessageRequest {
     createdBefore?: Date;
   }): Promise<GetMessagesResponse> {
     const queryParams = {
-      keyVersion: 'LEGACY_INBOX',
+      // keyVersion: 'LEGACY_INBOX',
+      q: 'syncToken',
       ...(createdBefore && { createdBefore: createdBefore.getTime() }),
     };
 
     return this.request.get<GetMessagesResponse>(`messaging/conversations/${conversationId}/events`, {
       params: queryParams,
+    });
+  }
+
+  async getAttachment({ url }: { url: string }): Promise<unknown> {
+    return this.request.get(url, {
+      responseType: 'arraybuffer',
+      fullResponse: true,
+      maxContentLength: 100000000,
+      maxBodyLength: 1000000000,
+    });
+  }
+
+  async uploadAttachmentMetadata({ filename, fileSize }: { filename: string; fileSize: number }): Promise<unknown> {
+    const url = '/voyager/api/voyagerVideoDashMediaUploadMetadata';
+    const uploadMetadataResponse = await this.request.post<any>(
+      url,
+      {
+        fileSize,
+        filename,
+        mediaUploadType: 'MESSAGING_FILE_ATTACHMENT',
+      },
+      {
+        params: { action: 'upload' },
+      },
+    );
+
+    const { urn, singleUploadUrl: uploadUrl } = uploadMetadataResponse.value as any;
+
+    return { urn, uploadUrl };
+  }
+
+  async uploadAttachment({
+    file,
+    uploadUrl,
+    fileSize,
+    mimetype,
+  }: {
+    file: any;
+    uploadUrl: string;
+    fileSize: number;
+    mimetype: string;
+  }): Promise<unknown> {
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
+    return this.request.put(uploadUrl, file as any, {
+      headers: {
+        'content-type': mimetype,
+        'content-length': fileSize,
+      },
     });
   }
 }

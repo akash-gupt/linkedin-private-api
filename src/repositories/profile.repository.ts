@@ -7,6 +7,7 @@ import { LinkedInProfile, PROFILE_TYPE } from '../entities/linkedin-profile.enti
 import { LinkedInVectorImage } from '../entities/linkedin-vector-image.entity';
 import { MiniProfile, ProfileId } from '../entities/mini-profile.entity';
 import { Profile } from '../entities/profile.entity';
+import { IndividualProfile } from '../entities/individual-profile.entity';
 
 const getProfilePictureUrls = (picture?: LinkedInVectorImage): string[] =>
   map(picture?.artifacts, artifact => `${picture?.rootUrl}${artifact.fileIdentifyingUrlPathSegment}`);
@@ -41,7 +42,7 @@ export class ProfileRepository {
 
     const profile = results.find(r => r.$type === PROFILE_TYPE && r.publicIdentifier === publicIdentifier) as LinkedInProfile;
     const company = results.find(r => r.$type === COMPANY_TYPE && profile.headline.includes(r.name)) as LinkedInCompany;
-    const pictureUrls = getProfilePictureUrls(get(profile, 'profilePicture.displayImageReference.vectorImage', {}));
+    const pictureUrls = getProfilePictureUrls(get(profile, 'profilePicture.displayImageReference.vectorImage'));
 
     return {
       ...profile,
@@ -60,5 +61,28 @@ export class ProfileRepository {
     }
 
     return this.getProfile(miniProfile);
+  }
+
+  /**
+   *
+   * @param id Public id or urn id
+   * @returns
+   */
+  async getIndividualProfile(id: string): Promise<IndividualProfile | null> {
+    const { data: profile, included = [] } = await this.client.request.profile.getIndividualProfile(id);
+    const miniProfile = included?.find(r => r.$type === MINI_PROFILE_TYPE);
+
+    return {
+      ...profile,
+      miniProfile,
+    };
+  }
+
+  async viewProfile(
+    publicProfileId: string,
+    targetProfileMemberUrnId?: string | null,
+    networkDistance?: number | null,
+  ): Promise<boolean> {
+    return this.client.request.profile.viewProfile(publicProfileId, targetProfileMemberUrnId, networkDistance);
   }
 }

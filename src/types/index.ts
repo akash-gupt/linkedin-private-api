@@ -9,3 +9,7 @@ export * from './people-search-filters';
 export * from './search-result-type.enum';
 export * from './search-type.enum';
 export * from './client.interface';
+export * from './sales-navigator';
+export * from './typeahead';
+export * from './people-search-filters';
+export * from './company-search-filters';

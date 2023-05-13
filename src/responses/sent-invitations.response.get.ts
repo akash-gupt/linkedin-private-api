@@ -1,3 +1,4 @@
+import { LinkedInInvitationSummary, LinkedInResponse } from '../entities';
 import { LinkedInCollectionResponse } from '../entities/linkedin-collection-response.entity';
 import { LinkedInInvitation } from '../entities/linkedin-invitation.entity';
 import { MiniProfile } from '../entities/mini-profile.entity';
@@ -12,3 +13,5 @@ export type GetSentInvitationResponse = LinkedInCollectionResponse<
   MiniProfile | LinkedInInvitation,
   SentInvitationMetadata
 >;
+
+export declare type GetSentInvitationSummaryResponse = LinkedInResponse<LinkedInInvitationSummary>;

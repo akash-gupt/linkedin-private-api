@@ -1,6 +1,6 @@
 import { LinkedInRequest } from '../core/linkedin-request';
 import { GetReceivedInvitationResponse } from '../responses/received-invitations.response.get';
-import { GetSentInvitationResponse } from '../responses/sent-invitations.response.get';
+import { GetSentInvitationResponse, GetSentInvitationSummaryResponse } from '../responses/sent-invitations.response.get';
 
 export class InvitationRequest {
   private request: LinkedInRequest;
@@ -45,6 +45,28 @@ export class InvitationRequest {
     };
 
     return this.request.get<GetSentInvitationResponse>('relationships/sentInvitationViewsV2', {
+      params: queryParams,
+    });
+  }
+
+  getSentInvitationsSummary(): Promise<GetSentInvitationSummaryResponse> {
+    const queryParams = {
+      types: 'List(SENT_INVITATION_COUNT,PENDING_INVITATION_COUNT,UNSEEN_INVITATION_COUNT,PENDING_INVITATION_BY_FACET_COUNT)',
+    };
+    return this.request.get('relationships/invitationsSummaryV2', {
+      params: queryParams,
+    });
+  }
+
+  cancelSendInvitation(entityUrns: string[]): Promise<void> {
+    const queryParams = {
+      action: 'closeInvitations',
+    };
+    const actionData = entityUrns.map(entityUrn => {
+      return { entityUrn: entityUrn, genericInvitation: false, genericInvitationType: 'CONNECTION' };
+    });
+    const body = { inviteActionType: 'ACTOR_WITHDRAW', inviteActionData: actionData };
+    return this.request.post('relationships/invitations', body, {
       params: queryParams,
     });
   }

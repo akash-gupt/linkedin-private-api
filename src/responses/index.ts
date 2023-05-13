@@ -9,3 +9,5 @@ export * from './received-invitations.response.get';
 export * from './sent-invitations.response.get';
 export * from './celebration-response.get';
 export * from './accepted-invitations.response.get';
+export * from './individual-profile.response.get';
+export * from './profile-network-info.response.get';

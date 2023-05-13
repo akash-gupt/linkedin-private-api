@@ -1,6 +1,8 @@
+import { LinkedInCompany } from './company';
 import { LinkedInContractInterest } from './contract-interest.enum';
 import { Language } from './language-code.enum';
 import { LinkedInNetworkType } from './network.enum';
+import { LinkedInTitle } from './title';
 
 export interface PeopleSearchFilters {
   currentCompany?: string | string[];
@@ -17,4 +19,17 @@ export interface PeopleSearchFilters {
   firstName?: string;
   lastName?: string;
   title?: string;
+}
+
+export interface SalesNavigatorPeopleSearchFilters {
+  searchKeywords?: string;
+  companySizes?: string[];
+  bingGeos?: string[];
+  industries?: string[];
+  relationships?: string[];
+  seniorityLevels?: string[];
+  titles?: LinkedInTitle[];
+  yearsOfExperiences?: string[];
+  currentCompanies?: LinkedInCompany[];
+  functions?: string[];
 }

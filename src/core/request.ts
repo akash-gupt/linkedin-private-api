@@ -47,4 +47,16 @@ export class Request {
 
     return reqConfig?.fullResponse ? response : response.data;
   }
+
+  async put<T>(url: string, data: string | Record<string, unknown>, reqConfig?: ConfigNonFullResponse): Promise<T>;
+  async put<T>(url: string, data: string | Record<string, unknown>, reqConfig?: ConfigFullResponse): Promise<AxiosResponse<T>>;
+  async put<T>(
+    url: string,
+    data: string | Record<string, unknown>,
+    reqConfig?: ConfigFullResponse | ConfigNonFullResponse,
+  ): Promise<T | AxiosResponse<T>> {
+    const response = await this.request.put<T>(buildUrl(url), data, reqConfig);
+
+    return reqConfig?.fullResponse ? response : response.data;
+  }
 }

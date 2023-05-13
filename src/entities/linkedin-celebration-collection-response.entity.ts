@@ -19,4 +19,3 @@ export interface LinkedInCelebrationCollectionResponse<T, I, M = undefined> {
   };
   included: I[];
 }
-export {};
