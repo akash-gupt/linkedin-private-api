@@ -39,7 +39,7 @@
 
 #### Defined in
 
-[entities/linkedin-celebration-collection-response.entity.ts:7](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/linkedin-celebration-collection-response.entity.ts#L7)
+[entities/linkedin-celebration-collection-response.entity.ts:7](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/linkedin-celebration-collection-response.entity.ts#L7)
 
 ___
 
@@ -49,4 +49,4 @@ ___
 
 #### Defined in
 
-[entities/linkedin-celebration-collection-response.entity.ts:20](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/linkedin-celebration-collection-response.entity.ts#L20)
+[entities/linkedin-celebration-collection-response.entity.ts:20](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/linkedin-celebration-collection-response.entity.ts#L20)

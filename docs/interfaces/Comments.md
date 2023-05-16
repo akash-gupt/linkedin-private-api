@@ -18,7 +18,7 @@
 
 #### Defined in
 
-[entities/social-feed-details.entity.ts:45](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/social-feed-details.entity.ts#L45)
+[entities/social-feed-details.entity.ts:45](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/social-feed-details.entity.ts#L45)
 
 ___
 
@@ -28,7 +28,7 @@ ___
 
 #### Defined in
 
-[entities/social-feed-details.entity.ts:44](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/social-feed-details.entity.ts#L44)
+[entities/social-feed-details.entity.ts:44](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/social-feed-details.entity.ts#L44)
 
 ___
 
@@ -38,4 +38,4 @@ ___
 
 #### Defined in
 
-[entities/social-feed-details.entity.ts:43](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/social-feed-details.entity.ts#L43)
+[entities/social-feed-details.entity.ts:43](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/social-feed-details.entity.ts#L43)

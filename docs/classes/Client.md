@@ -36,7 +36,7 @@
 
 #### Defined in
 
-[core/client.ts:24](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/core/client.ts#L24)
+[core/client.ts:24](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/core/client.ts#L24)
 
 ## Properties
 
@@ -46,7 +46,7 @@
 
 #### Defined in
 
-[core/client.ts:40](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/core/client.ts#L40)
+[core/client.ts:40](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/core/client.ts#L40)
 
 ___
 
@@ -56,7 +56,7 @@ ___
 
 #### Defined in
 
-[core/client.ts:42](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/core/client.ts#L42)
+[core/client.ts:42](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/core/client.ts#L42)
 
 ___
 
@@ -66,7 +66,7 @@ ___
 
 #### Defined in
 
-[core/client.ts:36](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/core/client.ts#L36)
+[core/client.ts:36](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/core/client.ts#L36)
 
 ___
 
@@ -76,7 +76,7 @@ ___
 
 #### Defined in
 
-[core/client.ts:46](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/core/client.ts#L46)
+[core/client.ts:46](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/core/client.ts#L46)
 
 ___
 
@@ -86,7 +86,7 @@ ___
 
 #### Defined in
 
-[core/client.ts:32](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/core/client.ts#L32)
+[core/client.ts:32](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/core/client.ts#L32)
 
 ___
 
@@ -96,7 +96,7 @@ ___
 
 #### Defined in
 
-[core/client.ts:28](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/core/client.ts#L28)
+[core/client.ts:28](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/core/client.ts#L28)
 
 ___
 
@@ -106,7 +106,7 @@ ___
 
 #### Defined in
 
-[core/client.ts:38](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/core/client.ts#L38)
+[core/client.ts:38](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/core/client.ts#L38)
 
 ___
 
@@ -116,7 +116,7 @@ ___
 
 #### Defined in
 
-[core/client.ts:44](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/core/client.ts#L44)
+[core/client.ts:44](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/core/client.ts#L44)
 
 ___
 
@@ -126,7 +126,7 @@ ___
 
 #### Defined in
 
-[core/client.ts:34](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/core/client.ts#L34)
+[core/client.ts:34](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/core/client.ts#L34)
 
 ___
 
@@ -136,7 +136,7 @@ ___
 
 #### Defined in
 
-[core/client.ts:22](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/core/client.ts#L22)
+[core/client.ts:22](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/core/client.ts#L22)
 
 ___
 
@@ -146,4 +146,4 @@ ___
 
 #### Defined in
 
-[core/client.ts:30](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/core/client.ts#L30)
+[core/client.ts:30](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/core/client.ts#L30)

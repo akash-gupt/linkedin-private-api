@@ -17,7 +17,7 @@
 
 #### Defined in
 
-[entities/linkedin-individual-profile.entity.ts:61](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/linkedin-individual-profile.entity.ts#L61)
+[entities/linkedin-individual-profile.entity.ts:61](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/linkedin-individual-profile.entity.ts#L61)
 
 ___
 
@@ -27,4 +27,4 @@ ___
 
 #### Defined in
 
-[entities/linkedin-individual-profile.entity.ts:60](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/linkedin-individual-profile.entity.ts#L60)
+[entities/linkedin-individual-profile.entity.ts:60](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/linkedin-individual-profile.entity.ts#L60)

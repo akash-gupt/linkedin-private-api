@@ -20,7 +20,7 @@
 
 #### Defined in
 
-[entities/linkedin-profile.entity.ts:30](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/linkedin-profile.entity.ts#L30)
+[entities/linkedin-profile.entity.ts:30](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/linkedin-profile.entity.ts#L30)
 
 ___
 
@@ -30,7 +30,7 @@ ___
 
 #### Defined in
 
-[entities/linkedin-profile.entity.ts:29](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/linkedin-profile.entity.ts#L29)
+[entities/linkedin-profile.entity.ts:29](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/linkedin-profile.entity.ts#L29)
 
 ___
 
@@ -46,7 +46,7 @@ ___
 
 #### Defined in
 
-[entities/linkedin-profile.entity.ts:31](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/linkedin-profile.entity.ts#L31)
+[entities/linkedin-profile.entity.ts:31](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/linkedin-profile.entity.ts#L31)
 
 ___
 
@@ -56,7 +56,7 @@ ___
 
 #### Defined in
 
-[entities/linkedin-profile.entity.ts:34](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/linkedin-profile.entity.ts#L34)
+[entities/linkedin-profile.entity.ts:34](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/linkedin-profile.entity.ts#L34)
 
 ___
 
@@ -66,4 +66,4 @@ ___
 
 #### Defined in
 
-[entities/linkedin-profile.entity.ts:35](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/linkedin-profile.entity.ts#L35)
+[entities/linkedin-profile.entity.ts:35](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/linkedin-profile.entity.ts#L35)

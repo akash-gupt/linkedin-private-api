@@ -18,7 +18,7 @@
 
 #### Defined in
 
-[entities/celebration.entity.ts:4](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/celebration.entity.ts#L4)
+[entities/celebration.entity.ts:4](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/celebration.entity.ts#L4)
 
 ___
 
@@ -28,7 +28,7 @@ ___
 
 #### Defined in
 
-[entities/celebration.entity.ts:6](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/celebration.entity.ts#L6)
+[entities/celebration.entity.ts:6](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/celebration.entity.ts#L6)
 
 ___
 
@@ -38,4 +38,4 @@ ___
 
 #### Defined in
 
-[entities/celebration.entity.ts:5](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/celebration.entity.ts#L5)
+[entities/celebration.entity.ts:5](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/celebration.entity.ts#L5)

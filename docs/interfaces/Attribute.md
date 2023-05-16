@@ -19,7 +19,7 @@
 
 #### Defined in
 
-[entities/common.entity.ts:10](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/common.entity.ts#L10)
+[entities/common.entity.ts:10](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/common.entity.ts#L10)
 
 ___
 
@@ -29,7 +29,7 @@ ___
 
 #### Defined in
 
-[entities/common.entity.ts:11](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/common.entity.ts#L11)
+[entities/common.entity.ts:11](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/common.entity.ts#L11)
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 #### Defined in
 
-[entities/common.entity.ts:8](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/common.entity.ts#L8)
+[entities/common.entity.ts:8](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/common.entity.ts#L8)
 
 ___
 
@@ -49,4 +49,4 @@ ___
 
 #### Defined in
 
-[entities/common.entity.ts:9](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/common.entity.ts#L9)
+[entities/common.entity.ts:9](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/common.entity.ts#L9)

@@ -19,7 +19,7 @@
 
 #### Defined in
 
-[entities/accepted-notification-params.entity.ts:3](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/accepted-notification-params.entity.ts#L3)
+[entities/accepted-notification-params.entity.ts:3](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/accepted-notification-params.entity.ts#L3)
 
 ___
 
@@ -29,7 +29,7 @@ ___
 
 #### Defined in
 
-[entities/accepted-notification-params.entity.ts:4](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/accepted-notification-params.entity.ts#L4)
+[entities/accepted-notification-params.entity.ts:4](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/accepted-notification-params.entity.ts#L4)
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 #### Defined in
 
-[entities/accepted-notification-params.entity.ts:5](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/accepted-notification-params.entity.ts#L5)
+[entities/accepted-notification-params.entity.ts:5](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/accepted-notification-params.entity.ts#L5)
 
 ___
 
@@ -49,4 +49,4 @@ ___
 
 #### Defined in
 
-[entities/accepted-notification-params.entity.ts:2](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/accepted-notification-params.entity.ts#L2)
+[entities/accepted-notification-params.entity.ts:2](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/accepted-notification-params.entity.ts#L2)

@@ -22,7 +22,7 @@
 
 #### Defined in
 
-[entities/feed.entity.ts:50](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/feed.entity.ts#L50)
+[entities/feed.entity.ts:50](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/feed.entity.ts#L50)
 
 ___
 
@@ -32,7 +32,7 @@ ___
 
 #### Defined in
 
-[entities/feed.entity.ts:47](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/feed.entity.ts#L47)
+[entities/feed.entity.ts:47](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/feed.entity.ts#L47)
 
 ___
 
@@ -42,7 +42,7 @@ ___
 
 #### Defined in
 
-[entities/feed.entity.ts:46](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/feed.entity.ts#L46)
+[entities/feed.entity.ts:46](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/feed.entity.ts#L46)
 
 ___
 
@@ -52,7 +52,7 @@ ___
 
 #### Defined in
 
-[entities/feed.entity.ts:45](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/feed.entity.ts#L45)
+[entities/feed.entity.ts:45](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/feed.entity.ts#L45)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[entities/feed.entity.ts:49](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/feed.entity.ts#L49)
+[entities/feed.entity.ts:49](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/feed.entity.ts#L49)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[entities/feed.entity.ts:48](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/feed.entity.ts#L48)
+[entities/feed.entity.ts:48](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/feed.entity.ts#L48)
 
 ___
 
@@ -82,4 +82,4 @@ ___
 
 #### Defined in
 
-[entities/feed.entity.ts:44](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/feed.entity.ts#L44)
+[entities/feed.entity.ts:44](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/feed.entity.ts#L44)

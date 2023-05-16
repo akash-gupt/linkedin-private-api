@@ -22,7 +22,7 @@
 
 #### Defined in
 
-[entities/common.entity.ts:43](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/common.entity.ts#L43)
+[entities/common.entity.ts:43](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/common.entity.ts#L43)
 
 ___
 
@@ -32,7 +32,7 @@ ___
 
 #### Defined in
 
-[entities/common.entity.ts:44](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/common.entity.ts#L44)
+[entities/common.entity.ts:44](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/common.entity.ts#L44)
 
 ___
 
@@ -42,7 +42,7 @@ ___
 
 #### Defined in
 
-[entities/common.entity.ts:42](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/common.entity.ts#L42)
+[entities/common.entity.ts:42](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/common.entity.ts#L42)
 
 ___
 
@@ -52,7 +52,7 @@ ___
 
 #### Defined in
 
-[entities/common.entity.ts:41](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/common.entity.ts#L41)
+[entities/common.entity.ts:41](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/common.entity.ts#L41)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[entities/common.entity.ts:40](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/common.entity.ts#L40)
+[entities/common.entity.ts:40](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/common.entity.ts#L40)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[entities/common.entity.ts:39](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/common.entity.ts#L39)
+[entities/common.entity.ts:39](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/common.entity.ts#L39)
 
 ___
 
@@ -82,4 +82,4 @@ ___
 
 #### Defined in
 
-[entities/common.entity.ts:38](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/common.entity.ts#L38)
+[entities/common.entity.ts:38](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/common.entity.ts#L38)

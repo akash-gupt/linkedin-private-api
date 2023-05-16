@@ -21,7 +21,7 @@
 
 #### Defined in
 
-[entities/celebration-hit.entity.ts:7](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/celebration-hit.entity.ts#L7)
+[entities/celebration-hit.entity.ts:7](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/celebration-hit.entity.ts#L7)
 
 ___
 
@@ -31,7 +31,7 @@ ___
 
 #### Defined in
 
-[entities/celebration-hit.entity.ts:4](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/celebration-hit.entity.ts#L4)
+[entities/celebration-hit.entity.ts:4](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/celebration-hit.entity.ts#L4)
 
 ___
 
@@ -41,7 +41,7 @@ ___
 
 #### Defined in
 
-[entities/celebration-hit.entity.ts:3](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/celebration-hit.entity.ts#L3)
+[entities/celebration-hit.entity.ts:3](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/celebration-hit.entity.ts#L3)
 
 ___
 
@@ -51,7 +51,7 @@ ___
 
 #### Defined in
 
-[entities/celebration-hit.entity.ts:2](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/celebration-hit.entity.ts#L2)
+[entities/celebration-hit.entity.ts:2](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/celebration-hit.entity.ts#L2)
 
 ___
 
@@ -61,7 +61,7 @@ ___
 
 #### Defined in
 
-[entities/celebration-hit.entity.ts:5](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/celebration-hit.entity.ts#L5)
+[entities/celebration-hit.entity.ts:5](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/celebration-hit.entity.ts#L5)
 
 ___
 
@@ -71,4 +71,4 @@ ___
 
 #### Defined in
 
-[entities/celebration-hit.entity.ts:6](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/celebration-hit.entity.ts#L6)
+[entities/celebration-hit.entity.ts:6](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/celebration-hit.entity.ts#L6)

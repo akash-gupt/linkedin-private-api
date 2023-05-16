@@ -17,7 +17,7 @@
 
 #### Defined in
 
-[entities/profile-network-info.entity.ts:14](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/profile-network-info.entity.ts#L14)
+[entities/profile-network-info.entity.ts:14](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/profile-network-info.entity.ts#L14)
 
 ___
 
@@ -27,4 +27,4 @@ ___
 
 #### Defined in
 
-[entities/profile-network-info.entity.ts:13](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/profile-network-info.entity.ts#L13)
+[entities/profile-network-info.entity.ts:13](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/profile-network-info.entity.ts#L13)

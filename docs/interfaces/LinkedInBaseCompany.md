@@ -21,7 +21,7 @@
 
 #### Defined in
 
-[entities/linkedin-base-company.ts:7](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/linkedin-base-company.ts#L7)
+[entities/linkedin-base-company.ts:7](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/linkedin-base-company.ts#L7)
 
 ___
 
@@ -31,7 +31,7 @@ ___
 
 #### Defined in
 
-[entities/linkedin-base-company.ts:11](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/linkedin-base-company.ts#L11)
+[entities/linkedin-base-company.ts:11](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/linkedin-base-company.ts#L11)
 
 ___
 
@@ -41,7 +41,7 @@ ___
 
 #### Defined in
 
-[entities/linkedin-base-company.ts:6](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/linkedin-base-company.ts#L6)
+[entities/linkedin-base-company.ts:6](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/linkedin-base-company.ts#L6)
 
 ___
 
@@ -51,7 +51,7 @@ ___
 
 #### Defined in
 
-[entities/linkedin-base-company.ts:12](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/linkedin-base-company.ts#L12)
+[entities/linkedin-base-company.ts:12](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/linkedin-base-company.ts#L12)
 
 ___
 
@@ -69,7 +69,7 @@ ___
 
 #### Defined in
 
-[entities/linkedin-base-company.ts:13](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/linkedin-base-company.ts#L13)
+[entities/linkedin-base-company.ts:13](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/linkedin-base-company.ts#L13)
 
 ___
 
@@ -79,4 +79,4 @@ ___
 
 #### Defined in
 
-[entities/linkedin-base-company.ts:18](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/linkedin-base-company.ts#L18)
+[entities/linkedin-base-company.ts:18](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/linkedin-base-company.ts#L18)

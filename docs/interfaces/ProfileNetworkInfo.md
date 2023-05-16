@@ -23,7 +23,7 @@
 
 #### Defined in
 
-[entities/profile-network-info.entity.ts:9](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/profile-network-info.entity.ts#L9)
+[entities/profile-network-info.entity.ts:9](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/profile-network-info.entity.ts#L9)
 
 ___
 
@@ -33,7 +33,7 @@ ___
 
 #### Defined in
 
-[entities/profile-network-info.entity.ts:6](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/profile-network-info.entity.ts#L6)
+[entities/profile-network-info.entity.ts:6](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/profile-network-info.entity.ts#L6)
 
 ___
 
@@ -43,7 +43,7 @@ ___
 
 #### Defined in
 
-[entities/profile-network-info.entity.ts:8](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/profile-network-info.entity.ts#L8)
+[entities/profile-network-info.entity.ts:8](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/profile-network-info.entity.ts#L8)
 
 ___
 
@@ -53,7 +53,7 @@ ___
 
 #### Defined in
 
-[entities/profile-network-info.entity.ts:2](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/profile-network-info.entity.ts#L2)
+[entities/profile-network-info.entity.ts:2](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/profile-network-info.entity.ts#L2)
 
 ___
 
@@ -63,7 +63,7 @@ ___
 
 #### Defined in
 
-[entities/profile-network-info.entity.ts:3](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/profile-network-info.entity.ts#L3)
+[entities/profile-network-info.entity.ts:3](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/profile-network-info.entity.ts#L3)
 
 ___
 
@@ -73,7 +73,7 @@ ___
 
 #### Defined in
 
-[entities/profile-network-info.entity.ts:5](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/profile-network-info.entity.ts#L5)
+[entities/profile-network-info.entity.ts:5](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/profile-network-info.entity.ts#L5)
 
 ___
 
@@ -83,7 +83,7 @@ ___
 
 #### Defined in
 
-[entities/profile-network-info.entity.ts:7](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/profile-network-info.entity.ts#L7)
+[entities/profile-network-info.entity.ts:7](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/profile-network-info.entity.ts#L7)
 
 ___
 
@@ -93,4 +93,4 @@ ___
 
 #### Defined in
 
-[entities/profile-network-info.entity.ts:4](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/profile-network-info.entity.ts#L4)
+[entities/profile-network-info.entity.ts:4](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/profile-network-info.entity.ts#L4)

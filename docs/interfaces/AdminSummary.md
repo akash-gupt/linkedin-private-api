@@ -20,7 +20,7 @@
 
 #### Defined in
 
-[entities/add-sales-nav-seat.entity.ts:10](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/add-sales-nav-seat.entity.ts#L10)
+[entities/add-sales-nav-seat.entity.ts:10](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/add-sales-nav-seat.entity.ts#L10)
 
 ___
 
@@ -30,7 +30,7 @@ ___
 
 #### Defined in
 
-[entities/add-sales-nav-seat.entity.ts:14](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/add-sales-nav-seat.entity.ts#L14)
+[entities/add-sales-nav-seat.entity.ts:14](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/add-sales-nav-seat.entity.ts#L14)
 
 ___
 
@@ -40,7 +40,7 @@ ___
 
 #### Defined in
 
-[entities/add-sales-nav-seat.entity.ts:13](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/add-sales-nav-seat.entity.ts#L13)
+[entities/add-sales-nav-seat.entity.ts:13](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/add-sales-nav-seat.entity.ts#L13)
 
 ___
 
@@ -50,7 +50,7 @@ ___
 
 #### Defined in
 
-[entities/add-sales-nav-seat.entity.ts:12](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/add-sales-nav-seat.entity.ts#L12)
+[entities/add-sales-nav-seat.entity.ts:12](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/add-sales-nav-seat.entity.ts#L12)
 
 ___
 
@@ -60,4 +60,4 @@ ___
 
 #### Defined in
 
-[entities/add-sales-nav-seat.entity.ts:11](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/add-sales-nav-seat.entity.ts#L11)
+[entities/add-sales-nav-seat.entity.ts:11](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/add-sales-nav-seat.entity.ts#L11)

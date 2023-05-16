@@ -24,7 +24,7 @@
 
 #### Defined in
 
-[entities/linkedin-job-posting.ts:12](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/linkedin-job-posting.ts#L12)
+[entities/linkedin-job-posting.ts:12](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/linkedin-job-posting.ts#L12)
 
 ___
 
@@ -34,7 +34,7 @@ ___
 
 #### Defined in
 
-[entities/linkedin-job-posting.ts:11](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/linkedin-job-posting.ts#L11)
+[entities/linkedin-job-posting.ts:11](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/linkedin-job-posting.ts#L11)
 
 ___
 
@@ -44,7 +44,7 @@ ___
 
 #### Defined in
 
-[entities/linkedin-job-posting.ts:19](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/linkedin-job-posting.ts#L19)
+[entities/linkedin-job-posting.ts:19](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/linkedin-job-posting.ts#L19)
 
 ___
 
@@ -54,7 +54,7 @@ ___
 
 #### Defined in
 
-[entities/linkedin-job-posting.ts:14](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/linkedin-job-posting.ts#L14)
+[entities/linkedin-job-posting.ts:14](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/linkedin-job-posting.ts#L14)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[entities/linkedin-job-posting.ts:13](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/linkedin-job-posting.ts#L13)
+[entities/linkedin-job-posting.ts:13](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/linkedin-job-posting.ts#L13)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[entities/linkedin-job-posting.ts:15](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/linkedin-job-posting.ts#L15)
+[entities/linkedin-job-posting.ts:15](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/linkedin-job-posting.ts#L15)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[entities/linkedin-job-posting.ts:16](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/linkedin-job-posting.ts#L16)
+[entities/linkedin-job-posting.ts:16](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/linkedin-job-posting.ts#L16)
 
 ___
 
@@ -94,7 +94,7 @@ ___
 
 #### Defined in
 
-[entities/linkedin-job-posting.ts:17](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/linkedin-job-posting.ts#L17)
+[entities/linkedin-job-posting.ts:17](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/linkedin-job-posting.ts#L17)
 
 ___
 
@@ -104,4 +104,4 @@ ___
 
 #### Defined in
 
-[entities/linkedin-job-posting.ts:18](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/linkedin-job-posting.ts#L18)
+[entities/linkedin-job-posting.ts:18](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/linkedin-job-posting.ts#L18)

@@ -1,6 +1,6 @@
-import { GetFeedsResponse } from 'src/responses/feed.response.get';
+import { GetFeedsResponse } from '../responses/feed.response.get';
 import { LinkedInRequest } from '../core/linkedin-request';
-import { FeedReactionType } from 'src/types';
+import { FeedReactionType } from '../types';
 
 export class FeedRequest {
   private request: LinkedInRequest;
@@ -34,18 +34,18 @@ export class FeedRequest {
   }) {
     const body: Record<string, string> = {
       reactionType,
-      threadUrn,
     };
 
     if (action) {
       delete body.reactionType;
+      body.threadUrn = threadUrn;
     }
 
     if (action === 'updateReaction') {
       body.newReactionType = reactionType;
     }
 
-    return this.request.post('voyagerSocialDashReactions', body, { params: { threadUrn, action } });
+    return this.request.post('voyagerSocialDashReactions', body, { params: { threadUrn: encodeURIComponent(threadUrn) } });
   }
 
   async addFeedReaction({

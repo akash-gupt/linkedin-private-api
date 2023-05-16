@@ -51,7 +51,7 @@
 
 #### Defined in
 
-[entities/social-feed-details.entity.ts:4](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/social-feed-details.entity.ts#L4)
+[entities/social-feed-details.entity.ts:4](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/social-feed-details.entity.ts#L4)
 
 ___
 
@@ -61,7 +61,7 @@ ___
 
 #### Defined in
 
-[entities/social-feed-details.entity.ts:10](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/social-feed-details.entity.ts#L10)
+[entities/social-feed-details.entity.ts:10](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/social-feed-details.entity.ts#L10)
 
 ___
 
@@ -71,7 +71,7 @@ ___
 
 #### Defined in
 
-[entities/social-feed-details.entity.ts:23](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/social-feed-details.entity.ts#L23)
+[entities/social-feed-details.entity.ts:23](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/social-feed-details.entity.ts#L23)
 
 ___
 
@@ -81,7 +81,7 @@ ___
 
 #### Defined in
 
-[entities/social-feed-details.entity.ts:29](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/social-feed-details.entity.ts#L29)
+[entities/social-feed-details.entity.ts:29](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/social-feed-details.entity.ts#L29)
 
 ___
 
@@ -91,7 +91,7 @@ ___
 
 #### Defined in
 
-[entities/social-feed-details.entity.ts:37](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/social-feed-details.entity.ts#L37)
+[entities/social-feed-details.entity.ts:37](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/social-feed-details.entity.ts#L37)
 
 ___
 
@@ -101,7 +101,7 @@ ___
 
 #### Defined in
 
-[entities/social-feed-details.entity.ts:31](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/social-feed-details.entity.ts#L31)
+[entities/social-feed-details.entity.ts:31](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/social-feed-details.entity.ts#L31)
 
 ___
 
@@ -111,7 +111,7 @@ ___
 
 #### Defined in
 
-[entities/social-feed-details.entity.ts:21](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/social-feed-details.entity.ts#L21)
+[entities/social-feed-details.entity.ts:21](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/social-feed-details.entity.ts#L21)
 
 ___
 
@@ -121,7 +121,7 @@ ___
 
 #### Defined in
 
-[entities/social-feed-details.entity.ts:34](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/social-feed-details.entity.ts#L34)
+[entities/social-feed-details.entity.ts:34](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/social-feed-details.entity.ts#L34)
 
 ___
 
@@ -131,7 +131,7 @@ ___
 
 #### Defined in
 
-[entities/social-feed-details.entity.ts:33](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/social-feed-details.entity.ts#L33)
+[entities/social-feed-details.entity.ts:33](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/social-feed-details.entity.ts#L33)
 
 ___
 
@@ -141,7 +141,7 @@ ___
 
 #### Defined in
 
-[entities/social-feed-details.entity.ts:6](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/social-feed-details.entity.ts#L6)
+[entities/social-feed-details.entity.ts:6](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/social-feed-details.entity.ts#L6)
 
 ___
 
@@ -151,7 +151,7 @@ ___
 
 #### Defined in
 
-[entities/social-feed-details.entity.ts:39](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/social-feed-details.entity.ts#L39)
+[entities/social-feed-details.entity.ts:39](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/social-feed-details.entity.ts#L39)
 
 ___
 
@@ -161,7 +161,7 @@ ___
 
 #### Defined in
 
-[entities/social-feed-details.entity.ts:22](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/social-feed-details.entity.ts#L22)
+[entities/social-feed-details.entity.ts:22](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/social-feed-details.entity.ts#L22)
 
 ___
 
@@ -171,7 +171,7 @@ ___
 
 #### Defined in
 
-[entities/social-feed-details.entity.ts:14](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/social-feed-details.entity.ts#L14)
+[entities/social-feed-details.entity.ts:14](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/social-feed-details.entity.ts#L14)
 
 ___
 
@@ -181,7 +181,7 @@ ___
 
 #### Defined in
 
-[entities/social-feed-details.entity.ts:13](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/social-feed-details.entity.ts#L13)
+[entities/social-feed-details.entity.ts:13](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/social-feed-details.entity.ts#L13)
 
 ___
 
@@ -191,7 +191,7 @@ ___
 
 #### Defined in
 
-[entities/social-feed-details.entity.ts:25](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/social-feed-details.entity.ts#L25)
+[entities/social-feed-details.entity.ts:25](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/social-feed-details.entity.ts#L25)
 
 ___
 
@@ -201,7 +201,7 @@ ___
 
 #### Defined in
 
-[entities/social-feed-details.entity.ts:5](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/social-feed-details.entity.ts#L5)
+[entities/social-feed-details.entity.ts:5](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/social-feed-details.entity.ts#L5)
 
 ___
 
@@ -211,7 +211,7 @@ ___
 
 #### Defined in
 
-[entities/social-feed-details.entity.ts:9](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/social-feed-details.entity.ts#L9)
+[entities/social-feed-details.entity.ts:9](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/social-feed-details.entity.ts#L9)
 
 ___
 
@@ -221,7 +221,7 @@ ___
 
 #### Defined in
 
-[entities/social-feed-details.entity.ts:18](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/social-feed-details.entity.ts#L18)
+[entities/social-feed-details.entity.ts:18](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/social-feed-details.entity.ts#L18)
 
 ___
 
@@ -231,7 +231,7 @@ ___
 
 #### Defined in
 
-[entities/social-feed-details.entity.ts:38](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/social-feed-details.entity.ts#L38)
+[entities/social-feed-details.entity.ts:38](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/social-feed-details.entity.ts#L38)
 
 ___
 
@@ -241,7 +241,7 @@ ___
 
 #### Defined in
 
-[entities/social-feed-details.entity.ts:12](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/social-feed-details.entity.ts#L12)
+[entities/social-feed-details.entity.ts:12](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/social-feed-details.entity.ts#L12)
 
 ___
 
@@ -251,7 +251,7 @@ ___
 
 #### Defined in
 
-[entities/social-feed-details.entity.ts:7](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/social-feed-details.entity.ts#L7)
+[entities/social-feed-details.entity.ts:7](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/social-feed-details.entity.ts#L7)
 
 ___
 
@@ -261,7 +261,7 @@ ___
 
 #### Defined in
 
-[entities/social-feed-details.entity.ts:20](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/social-feed-details.entity.ts#L20)
+[entities/social-feed-details.entity.ts:20](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/social-feed-details.entity.ts#L20)
 
 ___
 
@@ -271,7 +271,7 @@ ___
 
 #### Defined in
 
-[entities/social-feed-details.entity.ts:32](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/social-feed-details.entity.ts#L32)
+[entities/social-feed-details.entity.ts:32](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/social-feed-details.entity.ts#L32)
 
 ___
 
@@ -281,7 +281,7 @@ ___
 
 #### Defined in
 
-[entities/social-feed-details.entity.ts:30](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/social-feed-details.entity.ts#L30)
+[entities/social-feed-details.entity.ts:30](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/social-feed-details.entity.ts#L30)
 
 ___
 
@@ -291,7 +291,7 @@ ___
 
 #### Defined in
 
-[entities/social-feed-details.entity.ts:16](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/social-feed-details.entity.ts#L16)
+[entities/social-feed-details.entity.ts:16](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/social-feed-details.entity.ts#L16)
 
 ___
 
@@ -301,7 +301,7 @@ ___
 
 #### Defined in
 
-[entities/social-feed-details.entity.ts:35](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/social-feed-details.entity.ts#L35)
+[entities/social-feed-details.entity.ts:35](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/social-feed-details.entity.ts#L35)
 
 ___
 
@@ -311,7 +311,7 @@ ___
 
 #### Defined in
 
-[entities/social-feed-details.entity.ts:24](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/social-feed-details.entity.ts#L24)
+[entities/social-feed-details.entity.ts:24](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/social-feed-details.entity.ts#L24)
 
 ___
 
@@ -321,7 +321,7 @@ ___
 
 #### Defined in
 
-[entities/social-feed-details.entity.ts:17](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/social-feed-details.entity.ts#L17)
+[entities/social-feed-details.entity.ts:17](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/social-feed-details.entity.ts#L17)
 
 ___
 
@@ -331,7 +331,7 @@ ___
 
 #### Defined in
 
-[entities/social-feed-details.entity.ts:26](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/social-feed-details.entity.ts#L26)
+[entities/social-feed-details.entity.ts:26](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/social-feed-details.entity.ts#L26)
 
 ___
 
@@ -341,7 +341,7 @@ ___
 
 #### Defined in
 
-[entities/social-feed-details.entity.ts:36](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/social-feed-details.entity.ts#L36)
+[entities/social-feed-details.entity.ts:36](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/social-feed-details.entity.ts#L36)
 
 ___
 
@@ -351,7 +351,7 @@ ___
 
 #### Defined in
 
-[entities/social-feed-details.entity.ts:8](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/social-feed-details.entity.ts#L8)
+[entities/social-feed-details.entity.ts:8](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/social-feed-details.entity.ts#L8)
 
 ___
 
@@ -361,7 +361,7 @@ ___
 
 #### Defined in
 
-[entities/social-feed-details.entity.ts:15](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/social-feed-details.entity.ts#L15)
+[entities/social-feed-details.entity.ts:15](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/social-feed-details.entity.ts#L15)
 
 ___
 
@@ -371,7 +371,7 @@ ___
 
 #### Defined in
 
-[entities/social-feed-details.entity.ts:11](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/social-feed-details.entity.ts#L11)
+[entities/social-feed-details.entity.ts:11](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/social-feed-details.entity.ts#L11)
 
 ___
 
@@ -381,7 +381,7 @@ ___
 
 #### Defined in
 
-[entities/social-feed-details.entity.ts:27](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/social-feed-details.entity.ts#L27)
+[entities/social-feed-details.entity.ts:27](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/social-feed-details.entity.ts#L27)
 
 ___
 
@@ -391,7 +391,7 @@ ___
 
 #### Defined in
 
-[entities/social-feed-details.entity.ts:19](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/social-feed-details.entity.ts#L19)
+[entities/social-feed-details.entity.ts:19](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/social-feed-details.entity.ts#L19)
 
 ___
 
@@ -401,4 +401,4 @@ ___
 
 #### Defined in
 
-[entities/social-feed-details.entity.ts:28](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/social-feed-details.entity.ts#L28)
+[entities/social-feed-details.entity.ts:28](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/social-feed-details.entity.ts#L28)

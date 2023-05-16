@@ -22,7 +22,7 @@
 
 #### Defined in
 
-[entities/add-sales-nav-seat.entity.ts:23](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/add-sales-nav-seat.entity.ts#L23)
+[entities/add-sales-nav-seat.entity.ts:23](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/add-sales-nav-seat.entity.ts#L23)
 
 ___
 
@@ -32,7 +32,7 @@ ___
 
 #### Defined in
 
-[entities/add-sales-nav-seat.entity.ts:18](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/add-sales-nav-seat.entity.ts#L18)
+[entities/add-sales-nav-seat.entity.ts:18](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/add-sales-nav-seat.entity.ts#L18)
 
 ___
 
@@ -42,7 +42,7 @@ ___
 
 #### Defined in
 
-[entities/add-sales-nav-seat.entity.ts:22](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/add-sales-nav-seat.entity.ts#L22)
+[entities/add-sales-nav-seat.entity.ts:22](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/add-sales-nav-seat.entity.ts#L22)
 
 ___
 
@@ -52,7 +52,7 @@ ___
 
 #### Defined in
 
-[entities/add-sales-nav-seat.entity.ts:24](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/add-sales-nav-seat.entity.ts#L24)
+[entities/add-sales-nav-seat.entity.ts:24](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/add-sales-nav-seat.entity.ts#L24)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[entities/add-sales-nav-seat.entity.ts:21](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/add-sales-nav-seat.entity.ts#L21)
+[entities/add-sales-nav-seat.entity.ts:21](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/add-sales-nav-seat.entity.ts#L21)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[entities/add-sales-nav-seat.entity.ts:20](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/add-sales-nav-seat.entity.ts#L20)
+[entities/add-sales-nav-seat.entity.ts:20](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/add-sales-nav-seat.entity.ts#L20)
 
 ___
 
@@ -82,4 +82,4 @@ ___
 
 #### Defined in
 
-[entities/add-sales-nav-seat.entity.ts:19](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/add-sales-nav-seat.entity.ts#L19)
+[entities/add-sales-nav-seat.entity.ts:19](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/add-sales-nav-seat.entity.ts#L19)

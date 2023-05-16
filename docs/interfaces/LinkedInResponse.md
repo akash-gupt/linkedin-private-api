@@ -24,7 +24,7 @@
 
 #### Defined in
 
-[entities/linkedin-response.entity.ts:2](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/linkedin-response.entity.ts#L2)
+[entities/linkedin-response.entity.ts:2](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/linkedin-response.entity.ts#L2)
 
 ___
 
@@ -34,4 +34,4 @@ ___
 
 #### Defined in
 
-[entities/linkedin-response.entity.ts:3](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/linkedin-response.entity.ts#L3)
+[entities/linkedin-response.entity.ts:3](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/linkedin-response.entity.ts#L3)

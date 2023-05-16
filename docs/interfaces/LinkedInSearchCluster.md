@@ -18,7 +18,7 @@
 
 #### Defined in
 
-[entities/linkedin-search-cluster.entity.ts:5](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/linkedin-search-cluster.entity.ts#L5)
+[entities/linkedin-search-cluster.entity.ts:5](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/linkedin-search-cluster.entity.ts#L5)
 
 ___
 
@@ -28,7 +28,7 @@ ___
 
 #### Defined in
 
-[entities/linkedin-search-cluster.entity.ts:6](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/linkedin-search-cluster.entity.ts#L6)
+[entities/linkedin-search-cluster.entity.ts:6](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/linkedin-search-cluster.entity.ts#L6)
 
 ___
 
@@ -38,4 +38,4 @@ ___
 
 #### Defined in
 
-[entities/linkedin-search-cluster.entity.ts:7](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/linkedin-search-cluster.entity.ts#L7)
+[entities/linkedin-search-cluster.entity.ts:7](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/linkedin-search-cluster.entity.ts#L7)

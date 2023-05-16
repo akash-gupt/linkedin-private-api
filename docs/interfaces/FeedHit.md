@@ -23,7 +23,7 @@
 
 #### Defined in
 
-[entities/feed-hit.entity.ts:6](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/feed-hit.entity.ts#L6)
+[entities/feed-hit.entity.ts:6](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/feed-hit.entity.ts#L6)
 
 ___
 
@@ -33,7 +33,7 @@ ___
 
 #### Defined in
 
-[entities/feed-hit.entity.ts:4](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/feed-hit.entity.ts#L4)
+[entities/feed-hit.entity.ts:4](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/feed-hit.entity.ts#L4)
 
 ___
 
@@ -43,7 +43,7 @@ ___
 
 #### Defined in
 
-[entities/feed-hit.entity.ts:11](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/feed-hit.entity.ts#L11)
+[entities/feed-hit.entity.ts:11](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/feed-hit.entity.ts#L11)
 
 ___
 
@@ -53,7 +53,7 @@ ___
 
 #### Defined in
 
-[entities/feed-hit.entity.ts:10](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/feed-hit.entity.ts#L10)
+[entities/feed-hit.entity.ts:10](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/feed-hit.entity.ts#L10)
 
 ___
 
@@ -63,7 +63,7 @@ ___
 
 #### Defined in
 
-[entities/feed-hit.entity.ts:5](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/feed-hit.entity.ts#L5)
+[entities/feed-hit.entity.ts:5](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/feed-hit.entity.ts#L5)
 
 ___
 
@@ -73,7 +73,7 @@ ___
 
 #### Defined in
 
-[entities/feed-hit.entity.ts:7](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/feed-hit.entity.ts#L7)
+[entities/feed-hit.entity.ts:7](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/feed-hit.entity.ts#L7)
 
 ___
 
@@ -83,7 +83,7 @@ ___
 
 #### Defined in
 
-[entities/feed-hit.entity.ts:9](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/feed-hit.entity.ts#L9)
+[entities/feed-hit.entity.ts:9](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/feed-hit.entity.ts#L9)
 
 ___
 
@@ -93,4 +93,4 @@ ___
 
 #### Defined in
 
-[entities/feed-hit.entity.ts:8](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/feed-hit.entity.ts#L8)
+[entities/feed-hit.entity.ts:8](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/feed-hit.entity.ts#L8)

@@ -18,7 +18,7 @@
 
 #### Defined in
 
-[entities/linkedin-text-view-model.entity.ts:2](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/linkedin-text-view-model.entity.ts#L2)
+[entities/linkedin-text-view-model.entity.ts:2](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/linkedin-text-view-model.entity.ts#L2)
 
 ___
 
@@ -28,7 +28,7 @@ ___
 
 #### Defined in
 
-[entities/linkedin-text-view-model.entity.ts:3](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/linkedin-text-view-model.entity.ts#L3)
+[entities/linkedin-text-view-model.entity.ts:3](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/linkedin-text-view-model.entity.ts#L3)
 
 ___
 
@@ -38,4 +38,4 @@ ___
 
 #### Defined in
 
-[entities/linkedin-text-view-model.entity.ts:4](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/linkedin-text-view-model.entity.ts#L4)
+[entities/linkedin-text-view-model.entity.ts:4](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/linkedin-text-view-model.entity.ts#L4)

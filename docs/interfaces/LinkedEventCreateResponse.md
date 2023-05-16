@@ -21,7 +21,7 @@
 
 #### Defined in
 
-[entities/linkedin-event-create-response.ts:2](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/linkedin-event-create-response.ts#L2)
+[entities/linkedin-event-create-response.ts:2](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/linkedin-event-create-response.ts#L2)
 
 ___
 
@@ -31,7 +31,7 @@ ___
 
 #### Defined in
 
-[entities/linkedin-event-create-response.ts:3](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/linkedin-event-create-response.ts#L3)
+[entities/linkedin-event-create-response.ts:3](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/linkedin-event-create-response.ts#L3)
 
 ___
 
@@ -41,7 +41,7 @@ ___
 
 #### Defined in
 
-[entities/linkedin-event-create-response.ts:4](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/linkedin-event-create-response.ts#L4)
+[entities/linkedin-event-create-response.ts:4](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/linkedin-event-create-response.ts#L4)
 
 ___
 
@@ -51,7 +51,7 @@ ___
 
 #### Defined in
 
-[entities/linkedin-event-create-response.ts:5](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/linkedin-event-create-response.ts#L5)
+[entities/linkedin-event-create-response.ts:5](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/linkedin-event-create-response.ts#L5)
 
 ___
 
@@ -61,7 +61,7 @@ ___
 
 #### Defined in
 
-[entities/linkedin-event-create-response.ts:6](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/linkedin-event-create-response.ts#L6)
+[entities/linkedin-event-create-response.ts:6](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/linkedin-event-create-response.ts#L6)
 
 ___
 
@@ -71,4 +71,4 @@ ___
 
 #### Defined in
 
-[entities/linkedin-event-create-response.ts:7](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/linkedin-event-create-response.ts#L7)
+[entities/linkedin-event-create-response.ts:7](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/linkedin-event-create-response.ts#L7)

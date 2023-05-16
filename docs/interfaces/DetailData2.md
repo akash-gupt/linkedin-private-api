@@ -16,4 +16,4 @@
 
 #### Defined in
 
-[entities/common.entity.ts:27](https://github.com/akash-gupt/linkedin-private-api/blob/d170d2d/src/entities/common.entity.ts#L27)
+[entities/common.entity.ts:27](https://github.com/akash-gupt/linkedin-private-api/blob/db337d2/src/entities/common.entity.ts#L27)

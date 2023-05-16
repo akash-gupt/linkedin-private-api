@@ -14,7 +14,8 @@ import { formatText } from '../utils';
 
 export const transformFeed = (response: GetFeedsResponse): FeedHit[] => {
   const { included = [] } = response;
-  const feeds = included.filter(item => item.$type === FEED_TYPE).map(item => item as LinkedinFeed);
+
+  const feeds = included.filter(item => item.$type === FEED_TYPE && item?.commentary).map(item => item as LinkedinFeed);
 
   const miniProfiles = included.filter(item => item.$type === MINI_PROFILE_TYPE).map(item => item as LinkedInMiniProfile);
   const socialActivityCounts = included
@@ -30,18 +31,18 @@ export const transformFeed = (response: GetFeedsResponse): FeedHit[] => {
       activityItem => activityItem.socialDetailEntityUrn === item['*socialDetail'],
     );
 
-    const miniProfile = miniProfiles.find(profile => profile.objectUrn === item.actor.urn);
-    const socialDetail = socialDetails.find(detail => detail.entityUrn === item['*socialDetail']);
+    const miniProfile = miniProfiles.find(profile => profile?.objectUrn === item?.actor?.urn);
+    const socialDetail = socialDetails.find(detail => detail?.entityUrn === item['*socialDetail']);
 
     return {
       liked: socialActivityCount?.liked ?? false,
       threadUrn: socialDetail?.urn,
-      activityUrn: item.updateMetadata.urn,
+      activityUrn: item?.updateMetadata?.urn,
       totalComments: socialActivityCount?.numComments,
       totalShares: socialActivityCount?.numShares,
       totalLikes: socialActivityCount?.numLikes,
       miniProfile: miniProfile ? transformMiniProfile(miniProfile) : undefined,
-      postText: formatText(item.commentary.text.text),
+      postText: formatText(item?.commentary?.text?.text),
     };
   });
 
