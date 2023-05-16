@@ -12,7 +12,7 @@ import { IndividualProfile } from '../entities/individual-profile.entity';
 const getProfilePictureUrls = (picture?: LinkedInVectorImage): string[] =>
   map(picture?.artifacts, artifact => `${picture?.rootUrl}${artifact.fileIdentifyingUrlPathSegment}`);
 
-const transformMiniProfile = (miniProfile: LinkedInMiniProfile): MiniProfile => ({
+export const transformMiniProfile = (miniProfile: LinkedInMiniProfile): MiniProfile => ({
   ...miniProfile,
   pictureUrls: getProfilePictureUrls(miniProfile.picture),
   profileId: (miniProfile.entityUrn || '').replace('urn:li:fs_miniProfile:', ''),

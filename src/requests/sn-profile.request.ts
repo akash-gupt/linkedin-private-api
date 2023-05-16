@@ -1,7 +1,7 @@
 import { linkedinSalesNavigatorUrl } from '../config';
 import { LinkedInRequest } from '../core/linkedin-request';
 import { SalesNavigatorPeopleSearchFilters } from '../types';
-import { extractProfileId } from '../utils/common-li';
+import { extractProfileId } from '../utils';
 import { graphqlParamSerializer } from '../utils';
 import { GetSalesNavigatorProfilesSearchResponse } from '../responses/sn-profile.response.post';
 

@@ -1,6 +1,4 @@
-**[linkedin-private-api](README.md)**
-
-> [Globals](globals.md)
+linkedin-private-api-v2 / [Exports](modules.md)
 
 # NodeJS LinkedIn API
 ![Build](https://github.com/eilonmore/linkedin-private-api/workflows/Build/badge.svg?branch=master)

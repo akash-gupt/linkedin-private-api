@@ -4,6 +4,7 @@ import {
   CelebrationsRepository,
   CommentRepository,
   ConversationRepository,
+  FeedRepository,
   InvitationRepository,
   MessageRepository,
   NotificationRepository,
@@ -41,4 +42,6 @@ export class Client {
   comment = new CommentRepository({ client: this });
 
   notification = new NotificationRepository({ client: this });
+
+  feed = new FeedRepository({ client: this });
 }

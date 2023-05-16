@@ -8,6 +8,7 @@ import { SearchRequest } from '../requests/search.request';
 import { Request } from './request';
 import { CommentRequest } from '../requests/comment.request';
 import { NotificationRequest } from '../requests/notification.request';
+import { FeedRequest } from '../requests/feed.request';
 
 export class LinkedInRequest extends Request {
   conversation = new ConversationRequest({ request: this });
@@ -27,4 +28,6 @@ export class LinkedInRequest extends Request {
   comments = new CommentRequest({ request: this });
 
   notification = new NotificationRequest({ request: this });
+
+  feed = new FeedRequest({ request: this });
 }

@@ -42,3 +42,6 @@ export * from './profile-network-info.entity';
 export * from './add-sales-nav-seat.entity';
 // export * from './edit-sales-nav-seat.entity';
 // export * from './get-sales-nav-seats.entity';
+export * from './feed-hit.entity';
+export * from './feed.entity';
+export * from './social-feed-details.entity';

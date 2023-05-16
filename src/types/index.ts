@@ -13,3 +13,4 @@ export * from './sales-navigator';
 export * from './typeahead';
 export * from './people-search-filters';
 export * from './company-search-filters';
+export * from './feed-reaction-type.enum';

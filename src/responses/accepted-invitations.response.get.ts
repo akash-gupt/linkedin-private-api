@@ -1,4 +1,4 @@
-import { HeaderImage, Headline, CardAction, SettingOption, Action } from '../entities';
+import { LinkedinHeaderImage, Headline, CardAction, SettingOption, Action } from '../entities';
 import { LinkedInCollectionResponse } from '../entities/linkedin-collection-response.entity';
 export interface FetchAcceptedNotificationIncludedItem {
   contentImages: any[];
@@ -7,7 +7,7 @@ export interface FetchAcceptedNotificationIncludedItem {
   tertiaryAction?: any;
   settingTooltipText?: any;
   entityUrn: string;
-  headerImage: HeaderImage;
+  headerImage: LinkedinHeaderImage;
   subHeadline?: any;
   tertiaryImage?: any;
   kickerIcon?: any;

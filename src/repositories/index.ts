@@ -6,3 +6,4 @@ export * from './search.repository';
 export * from './celebrations.repository';
 export * from './notification.repository';
 export * from './comment.repository';
+export * from './feed.repository';

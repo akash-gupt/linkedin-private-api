@@ -1,4 +1,4 @@
-import { HeaderImage } from './common.entity';
+import { LinkedinHeaderImage } from './common.entity';
 export declare type CelebrationId = string;
 export declare enum CelebrationEnum {
   BIRTHDAY = 'birthdays',
@@ -28,7 +28,7 @@ interface CelebrationActionAttribute {
 }
 export interface Celebration {
   objectUrn: string;
-  headerImage: HeaderImage;
+  headerImage: LinkedinHeaderImage;
   actions: CelebrationActionAttribute[];
   publishedAt: number;
   subHeadline: {

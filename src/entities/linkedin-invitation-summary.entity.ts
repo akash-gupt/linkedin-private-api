@@ -1,4 +1,4 @@
-export declare const INVITATION_SUMMARY_TYPE = 'com.linkedin.voyager.relationships.invitation.InvitationsSummary';
+export const INVITATION_SUMMARY_TYPE = 'com.linkedin.voyager.relationships.invitation.InvitationsSummary';
 export interface LinkedInInvitationSummary {
   $type: typeof INVITATION_SUMMARY_TYPE;
   customMessage: boolean;

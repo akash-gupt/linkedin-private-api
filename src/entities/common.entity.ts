@@ -10,13 +10,13 @@ export interface Attribute {
   $recipeTypes: string[];
   $type: string;
 }
-export interface HeaderImage {
+export interface LinkedinHeaderImage {
   attributes: Attribute[];
   actionTarget: string;
   accessibilityTextAttributes: any[];
   accessibilityText: string;
   $recipeTypes: string[];
-  $type: string;
+  $type: 'com.linkedin.voyager.common.ImageViewModel';
 }
 export interface DetailDataUnion2 {
   profileFullName: string;
@@ -51,7 +51,7 @@ export interface CardAction {
   primary: boolean;
   $type: string;
 }
-export interface Description {
+export interface LinkedinDescription {
   textDirection: string;
   text: string;
   attributesV2: any[];
@@ -73,7 +73,7 @@ export interface SuccessToastText {
 }
 export interface SettingOption {
   optionType: string;
-  description: Description;
+  description: LinkedinDescription;
   title: Title;
   $recipeTypes: string[];
   $type: string;

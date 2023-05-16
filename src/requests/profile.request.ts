@@ -1,4 +1,4 @@
-import { getIdFromUrn, zipJson } from '../utils';
+import { getIdFromUrn } from '../utils';
 import { LinkedInRequest } from '../core/linkedin-request';
 import { GetOwnProfileResponse } from '../responses/own-profile.response.get';
 import { GetProfileResponse } from '../responses/profile.response.get';

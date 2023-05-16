@@ -1,7 +1,7 @@
 import { SendSalesNavigatorConnectionRequestResponse } from '../responses/sn-connection.response.post';
 import { linkedinSalesNavigatorUrl } from '../config';
 import { LinkedInRequest } from '../core/linkedin-request';
-import { extractProfileId } from '../utils/common-li';
+import { extractProfileId } from '../utils';
 
 export class SalesNavigatorConnectionRequest {
   private request: LinkedInRequest;
